@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LanguageExample</string>
+    <string name="title">Hello, How are you?</string>
+    <string name="content">I fine Thank you and how about you?\n A -> I think I need to go to the toilet.\n B -> Then go, what are you waiting for?\n A -> I don\'t have any bucks.
+    \n B -> Ohh, wait! Let me find. OK, here you go.\n A-> Thank you so much man, I will give you back tomorrow.\n B-> Ahh no need man, it\'s just ten bucks.
+    </string>
+</resources>
